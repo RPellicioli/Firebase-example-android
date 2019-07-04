@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905955446806",
+    "firebase_url": "https://picloud-8a56e.firebaseio.com",
+    "project_id": "picloud-8a56e",
+    "storage_bucket": "picloud-8a56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905955446806:android:4b2c5c98820b3512",
+        "android_client_info": {
+          "package_name": "com.example.picloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905955446806-ka9abpv8srrhf3vrhmgaej84bs2u9p7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picloud",
+            "certificate_hash": "8914ee71734ccffe6e46b331de2dae768eee79d3"
+          }
+        },
+        {
+          "client_id": "905955446806-knbi04drk8u0hkqkq6va0rs0vetiensr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVFpSosZ5z41q_wRrgkDhXkiiSnULWu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905955446806-knbi04drk8u0hkqkq6va0rs0vetiensr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

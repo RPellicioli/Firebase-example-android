@@ -1,0 +1,18 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/white_grey_border">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Selecione uma imagem para upload"
+            android:paddingTop="15dp"
+            android:paddingLeft="15dp"
+            android:textSize="16dp"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
+</merge>
